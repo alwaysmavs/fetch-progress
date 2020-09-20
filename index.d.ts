@@ -13,6 +13,8 @@ declare namespace fetchProgress {
         transferred: number;
         speed: number;
         eta: number;
+        percentage: number;
+        remaining: number;
     }
 
     export interface FetchProgressInitOptions {

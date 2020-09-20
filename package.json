@@ -1,6 +1,6 @@
 {
-  "name": "fetch-progress",
-  "version": "1.2.0",
+  "name": "@netless/fetch-progress",
+  "version": "0.0.1",
   "description": "Progress of response for fetch API",
   "main": "index.js",
   "typings": "index.d.ts",
